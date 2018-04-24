@@ -31,7 +31,7 @@ between city quake and earthquake. Next, I use the ScreenPosition class to conve
 Then, I can use this coordinates to draw lines to show the relationship between city quake and earthquakes.
 
 So this is a general technical description of extensions I have done in this assignment. If anybody have questions about my implementation, 
-feel free to contact me. My email address is song.923@osu.edu.
+feel free to open an issue or submit a PR.
 
 
 =====================================================================================
