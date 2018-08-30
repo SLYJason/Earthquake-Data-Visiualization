@@ -29,6 +29,3 @@ So this is a general technical description of extensions I have done. If anybody
 feel free to contact me or pull request. My email address is song.923@osu.edu.
 
 ![alt text](screen_shot.jpg)
-
-# License
-MIT
